@@ -5,7 +5,7 @@
 💻 Desenvolvedora em formação  
 🚀 Focada em desenvolvimento web e mobile  
 
-##  Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas 
 
 - 🌐 HTML / CSS / JavaScript (em aprendizado)  
 - 🖥️ Node.js(em aprendizado)

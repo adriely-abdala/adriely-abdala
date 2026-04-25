@@ -35,6 +35,5 @@ Aplicação web para exibição de cardápio digital, facilitando a visualizaç�
 
 ##  Sobre mim
 
-Sou apaixonada por tecnologia e estou sempre buscando evoluir como desenvolvedora.  
-Gosto de transformar ideias em projetos reais e funcionais.
-
+Sou estudante de Engenharia de Software e desenvolvedora em formação, com interesse em desenvolvimento web e mobile.
+Busco evoluir continuamente e aplicar meus conhecimentos na criação de soluções práticas e funcionais.
